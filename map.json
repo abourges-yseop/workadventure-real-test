@@ -366,8 +366,18 @@
          "transparentcolor":"#000000"
         }, 
         {
+         "columns":28,
          "firstgid":3019,
-         "source":"Rainbow_3.tsx"
+         "image":"Rainbow_3.png",
+         "imageheight":806,
+         "imagewidth":922,
+         "margin":0,
+         "name":"Rainbow_3",
+         "spacing":0,
+         "tilecount":700,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
