@@ -496,8 +496,7 @@
          "spacing":0,
          "tilecount":374,
          "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#000000"
+         "tilewidth":32
         }, 
         {
          "columns":28,
