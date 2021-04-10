@@ -512,18 +512,6 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#000000"
-        }, 
-        {
-         "firstgid":3719,
-         "source":"muckety_muddskipper_sprites_and_tiles_NEStopia_RGB.tsx"
-        }, 
-        {
-         "firstgid":3819,
-         "source":"TilesA2.tsx"
-        }, 
-        {
-         "firstgid":3879,
-         "source":"terrain_atlas.tsx"
         }],
  "tilewidth":32,
  "type":"map",
