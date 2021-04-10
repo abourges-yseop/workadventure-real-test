@@ -18,6 +18,8 @@ jobs:
 
       - name: Optimize map
         uses: thecodingmachine/map-optimizer-action@master
+        with:
+          map-file: 'map tonight.json'
 
       - name: Bash
         run: |
