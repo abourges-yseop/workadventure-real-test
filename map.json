@@ -518,16 +518,57 @@
          "source":"muckety_muddskipper_sprites_and_tiles_NEStopia_RGB.tsx"
         }, 
         {
+         "columns":32,
          "firstgid":3819,
-         "source":"terrain_atlas.tsx"
+         "image":"..\/..\/T\u00e9l\u00e9chargements\/Atlas\/terrain_atlas.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"terrain_atlas",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":20,
          "firstgid":4843,
-         "source":"LPC_Ancient_Greece_Architecture.tsx"
+         "image":"..\/..\/T\u00e9l\u00e9chargements\/LPC_Ancient_Greece_Architecture.png",
+         "imageheight":640,
+         "imagewidth":640,
+         "margin":0,
+         "name":"LPC_Ancient_Greece_Architecture",
+         "spacing":0,
+         "tilecount":400,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":5243,
-         "source":"obj_misk_atlas.tsx"
+         "image":"..\/..\/T\u00e9l\u00e9chargements\/Atlas2\/obj_misk_atlas.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"obj_misk_atlas",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":22,
+         "firstgid":6267,
+         "image":"..\/..\/T\u00e9l\u00e9chargements\/clouds21 npc black.png",
+         "imageheight":544,
+         "imagewidth":706,
+         "margin":0,
+         "name":"clouds21 npc black",
+         "spacing":0,
+         "tilecount":374,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
